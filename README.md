@@ -18,7 +18,7 @@ This project consists of creating a server service in C that uses INET sockets f
 
 ## Usage
 
-The user have a script (run_program.sh) with a menu to use easily the program.
+The user have a script (run_program.sh) to use easily the program.
 The user have a help menu using "./run_program.sh help"
 This script have several options to compile, clean and run the server and the client in different terminals windows 
 
